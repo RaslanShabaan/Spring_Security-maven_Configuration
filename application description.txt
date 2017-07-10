@@ -1,0 +1,4 @@
+this app show how to configure spring security with maven adding all dependencies and also 
+login using memory username and password 
+and also using taples for loging in 
+ 
